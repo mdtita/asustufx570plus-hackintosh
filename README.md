@@ -1,6 +1,6 @@
 # AMD Ryzen Hackintosh - Opencore EFI for Asus TUF Gaming x570-Plus (WIFI)
 
-I’ve been experimenting with mackintosh since I got my PC and over the past few months I think I got stable and performing well enough, and have been using it as a daily driver for quite some time now.
+I’ve been experimenting with hackintosh since I got my PC and over the past few months I think I got stable and performing well enough, and have been using it as a daily driver for quite some time now.
 
 
 
