@@ -84,3 +84,7 @@ I used SSDTime on Linux to generate the .aml and .dsl files.
 
 - [ ] Fix sleep issues.
 - [ ] Fix minor issues with frame dropping and stuttering “specially with high quality Youtube videos”.
+
+## Disclaimer
+
+This documentation is published for the sole purpose of learning and tech enthusiasm and with no guarantees of any kind, I’m not responsible of any harm of any kind or loss of data that may occur.
