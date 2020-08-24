@@ -1,7 +1,7 @@
 # AMD Ryzen Hackintosh - Opencore EFI for Asus TUF Gaming x570-Plus (WIFI)
 
 
-![](/Users/mohamedtita/Documents/GitHub/asustufx570plus-hackintosh/1.png)
+![](1.png)
 
 I’ve been experimenting with hackintosh since I got my PC and over the past few months I think I got stable and performing well enough, and have been using it as a daily driver for quite some time now.
 
